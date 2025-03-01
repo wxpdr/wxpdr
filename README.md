@@ -1,4 +1,8 @@
-## Hello Wold! I'm Wendy Pedrosa!
+Olá, sou Wendy! 👋
+Bem-vindo ao meu cantinho no GitHub! Estou animada para compartilhar minha jornada no mundo da programação e do desenvolvimento web com você.
+Quem Sou Eu
+Sou estudante de Análise e Desenvolvimento de Sistemas e uma apaixonada por tecnologia. Sempre buscando aprender coisas novas e aprimorar minhas habilidades. Atualmente, estou mergulhando em HTML, CSS e JavaScript, e também explorando novas ferramentas como React e Node.js.
+
 
   <div>
       <a href="#"></a>
