@@ -25,7 +25,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e uma apaixonada por tec
 ## Ferramentas e Tecnologias que Uso
 
 - **Linguagens**: HTML, CSS, JavaScript
-- **Frameworks**: React, Node.js
+- **Frameworks**: React Native
 - **Design**: Figma, Canva
 - **Controle de Versão**: Git, GitHub
 
