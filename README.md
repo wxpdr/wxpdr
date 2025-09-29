@@ -31,7 +31,7 @@
 
 ## 🌱 Projetos em destaque
 - [Portfólio de Conclusão de Curso](https://github.com/wxpdr/portfolio)  
-- (em breve) **WnPlants – Projeto Integrador** 🌿  
+- (em breve) **WNPlants – Projeto Integrador** 🌿  
 
 ---
 
