@@ -8,7 +8,7 @@
 
 ## 🚀 Atualmente estudando
 - Programação Orientada a Objetos (Java)  
-- SQL (do básico ao avançado)  
+- SQL 
 - Git & GitHub  
 - Front-end (HTML, CSS, JS)  
 - Explorando Design Gráfico e Identidade Visual 🎨  
