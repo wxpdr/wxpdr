@@ -5,16 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/wxpdr">
-    <img src="https://img.shields.io/badge/GitHub-wxpdr-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  Técnica, estética e um pouco de drama visual ✨
 </p>
 
 ---
 
 ## ✨ Sobre mim
 
-Sou uma desenvolvedora em construção, focada em criar projetos web com uma mistura de técnica, estética e organização.
+Sou uma desenvolvedora em construção, focada em criar projetos web com uma mistura de técnica, estética, organização e criatividade.
 
 Atualmente estou praticando desenvolvimento front-end com foco em:
 
@@ -26,6 +24,8 @@ Atualmente estou praticando desenvolvimento front-end com foco em:
 * construção de portfólio;
 * landing pages e páginas web simples.
 
+Também tenho interesse em inteligência artificial aplicada ao desenvolvimento, usando IA como apoio para estudar, prototipar ideias, organizar raciocínio e acelerar processos criativos.
+
 Gosto de transformar ideias em interfaces com personalidade, mas sem perder clareza, usabilidade e estrutura.
 
 ---
@@ -33,8 +33,21 @@ Gosto de transformar ideias em interfaces com personalidade, mas sem perder clar
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,java,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode" />
 </p>
+
+---
+
+## 🧠 Competências em desenvolvimento
+
+* Organização de projetos
+* Documentação técnica
+* Comunicação clara
+* Resolução de problemas
+* Aprendizado contínuo
+* Pensamento criativo
+* Metodologias ágeis
+* Uso de IA para apoio em estudos, prototipação e desenvolvimento
 
 ---
 
@@ -75,6 +88,8 @@ Projeto antigo de portfólio, mantido como registro de evolução na minha jorna
 * Boas práticas de README
 * Criação de landing pages
 * Portfólio profissional
+* IA aplicada ao desenvolvimento
+* Prototipação com apoio de ferramentas de IA
 
 ---
 
