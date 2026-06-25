@@ -1,34 +1,87 @@
-# Olá, eu sou a Wendy
+```md
+<h1 align="center">Oi, eu sou a Wendy 🌸</h1>
 
-Desenvolvedora Front-End em formação, criando projetos web com HTML, CSS e JavaScript.
+<p align="center">
+  Desenvolvedora Front-End em formação, criando interfaces web responsivas com HTML, CSS e JavaScript.
+</p>
 
-Tenho foco em interfaces responsivas, organização visual, boas práticas de estruturação e documentação de projetos. Uso este GitHub para registrar minha evolução, publicar projetos práticos e organizar meu portfólio.
+<p align="center">
+  <a href="https://github.com/wxpdr">
+    <img src="https://img.shields.io/badge/GitHub-wxpdr-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## Tecnologias
+---
 
-- HTML5
-- CSS3
-- JavaScript
-- Git e GitHub
-- Java
-- SQL
+## ✨ Sobre mim
 
-## Projetos em destaque
+Sou uma desenvolvedora em construção, focada em criar projetos web com uma mistura de técnica, estética e organização.
 
-- Santa Rita Pizza — landing page/cardápio digital para pizzaria
-- StockFlow — sistema web para controle de estoque
-- WNPlants — e-commerce acadêmico com front-end e back-end
-- Portfólio — projeto antigo de conclusão do ensino médio técnico
+Atualmente estou praticando desenvolvimento front-end com foco em:
 
-## Em evolução
+- interfaces responsivas;
+- HTML semântico;
+- CSS organizado;
+- JavaScript para interações;
+- documentação de projetos;
+- construção de portfólio;
+- landing pages e páginas web simples.
 
-- Responsividade
+Gosto de transformar ideias em interfaces com personalidade, mas sem perder clareza, usabilidade e estrutura.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,java,mysql,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wxpdr&show_icons=true&theme=dracula&hide_border=true&title_color=ff79c6&icon_color=ff79c6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxpdr&layout=compact&theme=dracula&hide_border=true&title_color=ff79c6" />
+</div>
+
+---
+
+## 🌐 Projetos em destaque
+
+### 🍕 Santa Rita Pizza
+Landing page/cardápio digital para pizzaria, desenvolvida com HTML, CSS e JavaScript.
+
+### 📦 StockFlow
+Sistema web para controle de estoque, com foco em organização, cadastro e movimentação de materiais.
+
+### 🌱 WhyNoPlants
+Projeto de e-commerce de plantas com catálogo, carrinho e fluxo de compra.
+
+### 💻 Portfólio
+Projeto antigo de portfólio, mantido como registro de evolução na minha jornada em desenvolvimento web.
+
+---
+
+## 🚧 Atualmente estudando
+
 - JavaScript no DOM
-- Organização de READMEs
+- Responsividade
+- Organização de projetos front-end
+- Boas práticas de README
 - Criação de landing pages
-- Portfólio front-end
+- Portfólio profissional
 
-## Contato
+---
 
-- GitHub: github.com/wxpdr
-- E-mail: contato@wxpdr.com.br
+## 🌙 Meu foco agora
+
+Construir uma presença profissional mais clara como desenvolvedora front-end, organizando meus projetos, melhorando meus READMEs e criando interfaces web que sejam bonitas, funcionais e bem apresentadas.
+
+---
+
+<p align="center">
+  Feito com café, CSS e um pouco de drama visual ✨
+</p>
+```
