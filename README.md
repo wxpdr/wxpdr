@@ -4,10 +4,6 @@
   Desenvolvedora Front-End em formação, criando interfaces web responsivas com HTML, CSS e JavaScript.
 </p>
 
-<p align="center">
-  Técnica, estética e um pouco de drama visual ✨
-</p>
-
 ---
 
 ## ✨ Sobre mim
