@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Oi, eu sou a Wendy 🌸</h1>
 
 <p align="center">
@@ -19,13 +18,13 @@ Sou uma desenvolvedora em construção, focada em criar projetos web com uma mis
 
 Atualmente estou praticando desenvolvimento front-end com foco em:
 
-- interfaces responsivas;
-- HTML semântico;
-- CSS organizado;
-- JavaScript para interações;
-- documentação de projetos;
-- construção de portfólio;
-- landing pages e páginas web simples.
+* interfaces responsivas;
+* HTML semântico;
+* CSS organizado;
+* JavaScript para interações;
+* documentação de projetos;
+* construção de portfólio;
+* landing pages e páginas web simples.
 
 Gosto de transformar ideias em interfaces com personalidade, mas sem perder clareza, usabilidade e estrutura.
 
@@ -51,27 +50,31 @@ Gosto de transformar ideias em interfaces com personalidade, mas sem perder clar
 ## 🌐 Projetos em destaque
 
 ### 🍕 Santa Rita Pizza
+
 Landing page/cardápio digital para pizzaria, desenvolvida com HTML, CSS e JavaScript.
 
 ### 📦 StockFlow
+
 Sistema web para controle de estoque, com foco em organização, cadastro e movimentação de materiais.
 
 ### 🌱 WhyNoPlants
+
 Projeto de e-commerce de plantas com catálogo, carrinho e fluxo de compra.
 
 ### 💻 Portfólio
+
 Projeto antigo de portfólio, mantido como registro de evolução na minha jornada em desenvolvimento web.
 
 ---
 
 ## 🚧 Atualmente estudando
 
-- JavaScript no DOM
-- Responsividade
-- Organização de projetos front-end
-- Boas práticas de README
-- Criação de landing pages
-- Portfólio profissional
+* JavaScript no DOM
+* Responsividade
+* Organização de projetos front-end
+* Boas práticas de README
+* Criação de landing pages
+* Portfólio profissional
 
 ---
 
@@ -84,4 +87,3 @@ Construir uma presença profissional mais clara como desenvolvedora front-end, o
 <p align="center">
   Feito com café, CSS e um pouco de drama visual ✨
 </p>
-```
