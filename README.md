@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou a Wendy 🌸</h1>
 
 <p align="center">
-  Desenvolvedora Front-End em formação, criando interfaces web responsivas com HTML, CSS e JavaScript.
+  Desenvolvedora Front-End em formação, criando interfaces web responsivas com HTML, CSS, JavaScript e apoio de IA.
 </p>
 
 ---
@@ -10,40 +10,34 @@
 
 Sou uma desenvolvedora em construção, focada em criar projetos web com uma mistura de técnica, estética, organização e criatividade.
 
-Atualmente estou praticando desenvolvimento front-end com foco em:
+Meu foco principal é desenvolvimento front-end, com interesse especial em interfaces responsivas, identidade visual, experiência do usuário e criação de projetos web com personalidade.
 
-* interfaces responsivas;
-* HTML semântico;
-* CSS organizado;
-* JavaScript para interações;
-* documentação de projetos;
-* construção de portfólio;
-* landing pages e páginas web simples.
+Também utilizo inteligência artificial como apoio no meu processo criativo e técnico, principalmente para gerar ideias, prototipar projetos, escrever documentação, estudar código, criar layouts e automatizar tarefas.
 
-Também tenho interesse em inteligência artificial aplicada ao desenvolvimento, usando IA como apoio para estudar, prototipar ideias, organizar raciocínio e acelerar processos criativos.
-
-Gosto de transformar ideias em interfaces com personalidade, mas sem perder clareza, usabilidade e estrutura.
+Gosto de transformar ideias em interfaces bonitas, funcionais e bem estruturadas, sem perder clareza, usabilidade e intenção.
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,linux,git,github,figma,vscode" />
 </p>
 
 ---
 
 ## 🧠 Competências em desenvolvimento
 
+* Desenvolvimento front-end
+* Interfaces responsivas
 * Organização de projetos
 * Documentação técnica
 * Comunicação clara
 * Resolução de problemas
-* Aprendizado contínuo
 * Pensamento criativo
 * Metodologias ágeis
-* Uso de IA para apoio em estudos, prototipação e desenvolvimento
+* Prototipação com apoio de IA
+* Uso de IA para ideias, estudos, documentação e automação de tarefas
 
 ---
 
@@ -76,7 +70,7 @@ Projeto antigo de portfólio, mantido como registro de evolução na minha jorna
 
 ---
 
-## 🚧 Atualmente estudando
+## 🚧 Atualmente estudando e praticando
 
 * JavaScript no DOM
 * Responsividade
@@ -86,15 +80,18 @@ Projeto antigo de portfólio, mantido como registro de evolução na minha jorna
 * Portfólio profissional
 * IA aplicada ao desenvolvimento
 * Prototipação com apoio de ferramentas de IA
+* Figma para identidade visual e elementos de interface
 
 ---
 
 ## 🌙 Meu foco agora
 
-Construir uma presença profissional mais clara como desenvolvedora front-end, organizando meus projetos, melhorando meus READMEs e criando interfaces web que sejam bonitas, funcionais e bem apresentadas.
+Construir uma presença profissional mais clara como desenvolvedora front-end criativa, organizando meus projetos, melhorando meus READMEs e criando interfaces web que sejam bonitas, funcionais e bem apresentadas.
+
+Também sigo mantendo contato com tecnologias como Python, Java, MySQL e Linux, porque gosto de entender o projeto além da interface e enxergar melhor como as partes de uma aplicação se conectam.
 
 ---
 
 <p align="center">
-  Feito com café, CSS e um pouco de drama visual ✨
+  Feito com café, CSS, IA e um pouco de drama visual ✨
 </p>
